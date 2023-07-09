@@ -6,7 +6,7 @@ This repository contains the official implementations of [ HVMspotter]
 First, clone the repository locally:
 
 ```shell
-git clone https://github.com/whai362/pan_pp.pytorch.git
+git clone https://github.com/Suoyours/HVMspotter.git
 ```
 
 Then, install PyTorch 1.1.0+, torchvision 0.3.0+, and other requirements:
