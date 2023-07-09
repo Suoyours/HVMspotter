@@ -1,0 +1,1 @@
+cd ic15_end2end_rec && python2 script.py -g=/data/ys/cc1/test_gt_clockwise.zip -s=../../outputs/submit_ic15_rec.zip && cd ..
